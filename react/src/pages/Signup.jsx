@@ -14,7 +14,7 @@ const Signuppage = () => {
   const handleSignup = async (e) => {
     e.preventDefault();
 
-    // 🔥 Password match check
+    // 🔥 Password match checkjjjnn
     if (password !== confirmPassword) {
       alert("Passwords do not match!");
       return;
